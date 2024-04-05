@@ -1,2 +1,2 @@
 # Proyecto-FIUBA-Bash
-Ejercicio de Bash
+Ejercicio 2 del PDF
